@@ -1,4 +1,4 @@
-# Agent-Based Simulation Project
+# Agent-Based Simulation Project - Singly Linked List Data Structure
 Welcome to our Agent-Based Simulation Project! This initiative provides a unique opportunity to apply the principles of linked lists within the dynamic and interactive realm of agent-based simulations.
 
 ## Overview
