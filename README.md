@@ -13,5 +13,5 @@ In this project, we dive into the fascinating world of agent-based models, where
 This project aims to blend computer science concepts with social science inquiries, offering a platform to explore how individual behaviors can lead to complex societal patterns. It's an excellent opportunity for those interested in simulation, artificial societies, and computational models to experiment and learn.
 
 ## Getting Started:
-To dive into this simulation, simply clone the repository, follow the setup instructions, and start experimenting with your agents in the 2D landscape. We encourage creativity and exploration, so feel free to modify the agents' behavior and observe the emergent patterns!
+To dive into this simulation, simply clone the repository, run the SocialAgentSimulation.java file in your command line, and start experimenting with your agents in the 2D landscape. We encourage creativity and exploration, so feel free to modify the agents' behavior and observe the emergent patterns!
 
